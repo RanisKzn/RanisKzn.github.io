@@ -1,0 +1,226 @@
+body {
+    /* Frame 17 */
+    position: relative;
+    width: 1663px;
+    height: 934px;
+    background: #C4C4C4;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+}
+#support {
+    /* ����� ����� : ������, �����, 1-14-23 Okubo */
+    position: absolute;
+    width: 260px;
+    height: 66px;
+    left: 1335px;
+    top: 836px;
+    font-family: Battambang;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 33px;
+    text-align: center;
+    color: #FFFFFF;
+}
+#adreas {
+    /* ���/��������� ���������: zaid-mingaliev@mail.ru */
+    position: absolute;
+    width: 272px;
+    height: 65px;
+    left: 46px;
+    top: 836px;
+    font-family: Battambang;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 33px;
+    text-align: center;
+    color: #000000;
+}
+#footer {
+    /* ���� */
+    position: absolute;
+    width: 1663px;
+    height: 130px;
+    left: 0px;
+    top: 804px;
+    background: #C4C4C4;
+    opacity: 0.7;
+}
+#infline {
+    /* ���� */
+    position: absolute;
+    width: 1663px;
+    height: 306px;
+    left: 0px;
+    top: 370px;
+    opacity: 0.7;
+    background: #C4C4C4;
+}
+#infrec1 {
+    /* Rectangle 31 */
+
+
+    position: absolute;
+    width: 322.72px;
+    height: 210px;
+    left: 62.53px;
+    top: 48px;
+    background: #000000;
+    border-radius: 10px;
+}
+#infrec2 {
+    /* Rectangle 32 */
+
+
+    position: absolute;
+    width: 322.72px;
+    height: 210px;
+    left: 470.96px;
+    top: 48px;
+    background: #000000;
+    border-radius: 10px;
+}
+#infrec3 {
+    /* Rectangle 33 */
+
+
+    position: absolute;
+    width: 322.72px;
+    height: 210px;
+    left: 878.39px;
+    top: 44px;
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+#infrec4 {
+    /* Rectangle 34 */
+
+
+    position: absolute;
+    width: 322.72px;
+    height: 210px;
+    left: 1285.82px;
+    top: 44px;
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+#content1 {
+    /* Rectangle 4 */
+
+
+    position: absolute;
+    width: 839px;
+    height: 934px;
+    left: 0px;
+    top: 0px;
+    background: #FFFFFF;
+    z-index: -999;
+}
+#content2 {
+    /* Rectangle 5 */
+
+
+    position: absolute;
+    width: 824px;
+    height: 934px;
+    left: 839px;
+    top: 0px;
+    background: #000000;
+    z-index: -999;
+}
+#Enterbytton
+{
+    position: absolute;
+    width: 200px;
+    height: 75px;
+    left: 573px;
+    top: 168px;
+    
+    background: #000000;
+    border-radius: 10px;
+}
+#EnterbyttonText
+{
+    position: absolute;
+    width: 55px;
+    height: 33px;
+    left: 645px;
+    top: 189px;
+    
+    font-family: Battambang;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 33px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+}
+#CreateButton
+{
+    position: absolute;
+    width: 200px;
+    height: 75px;
+    left: 871px;
+    top: 168px;
+    
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+#CreateButtonText
+{
+    position: absolute;
+    width: 144px;
+    height: 33px;
+    left: 899px;
+    top: 190px;
+    
+    font-family: Battambang;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 33px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+#Name1
+{
+    position: absolute;
+    width: 267px;
+    height: 78px;
+    left: 70px;
+    top: 40px;
+    
+    font-family: Battambang;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 43px;
+    line-height: 78px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+#Name2
+{
+    position: absolute;
+    width: 497px;
+    height: 42px;
+    left: 1082px;
+    top: 58px;
+    
+    font-family: Battambang;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 42px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: #FFFFFF;
+}
